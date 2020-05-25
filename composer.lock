@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7338848c9e69bbb8846ebca34bce7a3c",
+    "content-hash": "1de8fe60966e892b2f12894e8d678880",
     "packages": [
         {
             "name": "clue/stream-filter",
@@ -388,16 +388,16 @@
         },
         {
             "name": "eiriksm/cosy-composer",
-            "version": "dev-master",
+            "version": "dev-feat/group-gitlab-support",
             "source": {
                 "type": "git",
                 "url": "https://github.com/eiriksm/cosy-composer.git",
-                "reference": "b32966c9d44a74d2a17757b27954c3e2edcd86a8"
+                "reference": "f06d323e39a51f96e4b5bbe30522864d727ab1b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/eiriksm/cosy-composer/zipball/b32966c9d44a74d2a17757b27954c3e2edcd86a8",
-                "reference": "b32966c9d44a74d2a17757b27954c3e2edcd86a8",
+                "url": "https://api.github.com/repos/eiriksm/cosy-composer/zipball/f06d323e39a51f96e4b5bbe30522864d727ab1b0",
+                "reference": "f06d323e39a51f96e4b5bbe30522864d727ab1b0",
                 "shasum": ""
             },
             "require": {
@@ -423,6 +423,7 @@
             },
             "require-dev": {
                 "php-coveralls/php-coveralls": "^2.1",
+                "phpstan/phpstan": "^0.9.2",
                 "phpunit/phpunit": "^6",
                 "squizlabs/php_codesniffer": "^3.2"
             },
@@ -441,7 +442,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "I will probably use this for something",
-            "time": "2020-05-15T17:49:22+00:00"
+            "time": "2020-05-25T20:20:38+00:00"
         },
         {
             "name": "eiriksm/gitinfo",

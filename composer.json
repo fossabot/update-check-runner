@@ -5,7 +5,7 @@
   "require": {
     "ext-json": "*",
     "ext-exif": "*",
-    "eiriksm/cosy-composer": "dev-master",
+    "eiriksm/cosy-composer": "dev-feat/group-gitlab-support",
     "symfony/dependency-injection": "^3.4",
     "php-http/guzzle6-adapter": "^1.1",
     "eiriksm/gitinfo": "^1.1",
